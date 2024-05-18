@@ -1,0 +1,1 @@
+Get the text of a tedious song.
